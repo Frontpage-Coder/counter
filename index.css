@@ -1,0 +1,33 @@
+body {
+    background-color: #f1f5f8;
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15rem;
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    height:50px;
+    margin; 0 auto;
+}
+
+
